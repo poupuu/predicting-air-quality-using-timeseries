@@ -20,6 +20,7 @@ This project uses a multivariate time series model to forecast air quality (Ambi
 3. Deep Learning Frameworks: Tensorflow & Keras, LSTM, Bidirectional, ModelCheckpoint, EarlyStopping
 
 ## Results 
+![LSTM Model Result](assets/LSTM-Model-Result.png)
 1. The final LSTM model (modified model 2) perfomed effictively with R2 score of 0.9540
 2. The model's sMAPE was 9.82% on the test set, indicating a high level of accuracy
    
